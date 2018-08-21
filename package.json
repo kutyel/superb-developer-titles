@@ -1,0 +1,41 @@
+{
+	"name": "superb-developer-titles",
+	"version": "1.0.0",
+	"description": "Get superb like and cool/funky/weird developer titles",
+	"license": "MIT",
+	"repository": "kutyel/superb-developer-titles",
+	"author": {
+		"name": "Flavio Corpa",
+		"email": "flaviocorpa@gmail.com",
+		"url": "flaviocorpa.com"
+	},
+	"engines": {
+		"node": ">=6"
+	},
+	"scripts": {
+		"test": "ava"
+	},
+	"files": [
+		"index.js",
+		"titles.json"
+	],
+	"keywords": [
+		"superb",
+		"awesome",
+		"titles",
+		"developer",
+		"cool",
+		"funky",
+		"word",
+		"words",
+		"list",
+		"array",
+		"random"
+	],
+	"dependencies": {
+		"unique-random-array": "^1.0.0"
+	},
+	"devDependencies": {
+		"ava": "*"
+	}
+}
