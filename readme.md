@@ -1,6 +1,6 @@
 # superb-developer-titles [![Build Status](https://travis-ci.org/kutyel/superb-developer-titles.svg?branch=master)](https://travis-ci.org/kutyel/superb-developer-titles)
 
-> Get superb like and cool/funky/weird developer titles 🦄
+> Get random cool/funky/weird developer titles 🦄
 
 Currently ~12 stupid titles. **🙏 PLEASE FEEL FREE TO ADD MORE! 🙏**
 
@@ -8,7 +8,7 @@ The word list itself is just a [JSON file](titles.json) and can be used wherever
 
 ## WHY
 
-Because the community _really_ needs it ¯\_(ツ)\_/¯
+Because the community _really_ needs it ¯\\\_(ツ)\_/¯
 
 ## Install
 

@@ -1,13 +1,13 @@
 {
 	"name": "superb-developer-titles",
 	"version": "1.0.0",
-	"description": "Get superb like and cool/funky/weird developer titles",
+	"description": "Get random cool/funky/weird developer titles 🦄",
 	"license": "MIT",
 	"repository": "kutyel/superb-developer-titles",
 	"author": {
 		"name": "Flavio Corpa",
 		"email": "flaviocorpa@gmail.com",
-		"url": "flaviocorpa.com"
+		"url": "http://flaviocorpa.com"
 	},
 	"engines": {
 		"node": ">=6"
