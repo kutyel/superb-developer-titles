@@ -35,7 +35,8 @@ Random funky developer title 🎸.
 
 ## Inspiration
 
-Obviously inspired by [Sindre Sorhus](https://sindresorhus.com)'s amazing [superb](https://github.com/sindresorhus/superb) 😉
+- Obviously inspired by [Sindre Sorhus](https://sindresorhus.com)'s amazing [superb](https://github.com/sindresorhus/superb) 😉
+- Also the awesome [bullshit-job-titles](https://bullg.it/bullshit-job-titles), made by [@haroenv](https://github.com/Haroenv)!
 
 ## Related
 
