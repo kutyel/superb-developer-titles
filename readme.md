@@ -2,7 +2,7 @@
 
 > Get random cool/funky/weird developer titles 🦄
 
-Currently ~12 stupid titles. **🙏 PLEASE FEEL FREE TO ADD MORE! 🙏**
+Currently ~30 stupid titles. **🙏 PLEASE FEEL FREE TO ADD MORE! 🙏**
 
 The word list itself is just a [JSON file](titles.json) and can be used wherever.
 
@@ -27,16 +27,24 @@ getTitle()
 
 ## API
 
-### default
+### default(config = {})
 
 Type: `Function`
 
 Random funky developer title 🎸.
 
+### Config options
+
+#### female (default: `false`)
+
+Type: `Boolean`
+
+If `true` will provide the femenine version of the title (in case it's not unisex)
+
 ## Inspiration
 
 - Obviously inspired by [Sindre Sorhus](https://sindresorhus.com)'s amazing [superb](https://github.com/sindresorhus/superb) 😉
-- Also the awesome [bullshit-job-titles](https://bullg.it/bullshit-job-titles), made by [@bullgit](https://github.com/bullgit)!
+- Also the awesome [bullshit-job-titles](https://bullg.it/bullshit-job-titles), made by [@bullgit](https://github.com/bullgit) 🐄
 
 ## Related
 
