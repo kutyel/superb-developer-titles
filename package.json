@@ -33,6 +33,7 @@
 		"random"
 	],
 	"dependencies": {
+		"esm": "^3.0.80",
 		"unique-random-array": "^1.0.0"
 	},
 	"devDependencies": {
