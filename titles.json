@@ -27,5 +27,14 @@
   "superhero",
   "tidy-upper",
   "unicorn",
-  ["wizard", "wizardess"]
+  ["wizard", "wizardess"],
+  "coder",
+  "lost semicolon",
+  "tester",
+  "bug",
+  "hardcore",
+  "undefined is not a function",
+  "owl",
+  "pizza",
+  "coffee maker"
 ]
