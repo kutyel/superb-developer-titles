@@ -36,6 +36,9 @@
 		"unique-random-array": "^1.0.0"
 	},
 	"devDependencies": {
-		"ava": "*"
+		"ava": "*",
+    "braces": "*",
+    "js-yaml": "*",
+    "lodash": "*"
 	}
 }
