@@ -1,4 +1,8 @@
-# superb-developer-titles [![Build Status](https://travis-ci.org/kutyel/superb-developer-titles.svg?branch=master)](https://travis-ci.org/kutyel/superb-developer-titles) [![npm](https://img.shields.io/npm/v/superb-developer-titles.svg)](https://www.npmjs.com/package/superb-developer-titles) [![downloads](https://img.shields.io/npm/dt/superb-developer-titles.svg)](https://www.npmjs.com/package/superb-developer-titles)
+# superb-developer-titles
+
+[![Build](https://github.com/kutyel/superb-developer-titles/actions/workflows/main.yml/badge.svg?branch=master)](https://github.com/kutyel/superb-developer-titles/actions/workflows/main.yml)
+[![npm](https://img.shields.io/npm/v/superb-developer-titles.svg)](https://www.npmjs.com/package/superb-developer-titles)
+[![downloads](https://img.shields.io/npm/dt/superb-developer-titles.svg)](https://www.npmjs.com/package/superb-developer-titles)
 
 > Get random cool/funky/weird developer titles 🦄
 

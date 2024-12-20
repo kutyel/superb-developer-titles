@@ -1,17 +1,26 @@
 {
   "name": "superb-developer-titles",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Get random cool/funky/weird developer titles 🦄",
   "license": "MIT",
   "type": "module",
   "repository": "kutyel/superb-developer-titles",
+  "exports": {
+    ".": [
+      {
+        "import": "./index.mjs",
+        "require": "./index.js",
+        "default": "./index.js"
+      }
+    ]
+  },
   "author": {
     "name": "Flavio Corpa",
     "email": "flaviocorpa@gmail.com",
-    "url": "http://flaviocorpa.com"
+    "url": "https://flaviocorpa.com"
   },
   "engines": {
-    "node": ">=12"
+    "node": ">=22"
   },
   "scripts": {
     "test": "ava"
@@ -39,7 +48,6 @@
   "devDependencies": {
     "ava": "*",
     "braces": "*",
-    "js-yaml": "*",
-    "lodash": "*"
+    "js-yaml": "*"
   }
 }
