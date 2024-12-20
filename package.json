@@ -1,6 +1,6 @@
 {
   "name": "superb-developer-titles",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Get random cool/funky/weird developer titles 🦄",
   "license": "MIT",
   "type": "module",
@@ -27,6 +27,7 @@
   },
   "files": [
     "index.js",
+    "index.mjs",
     "titles.json"
   ],
   "keywords": [
